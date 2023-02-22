@@ -39,5 +39,6 @@ Now that we have trained the model, let’s make some predictions using the test
 
 Precision Score: It is the percentage of predicted positive events that are actually positive.
 Precision = TP / (TP + FP)
+
 ![image](https://user-images.githubusercontent.com/21077069/220509966-74ea0586-cef8-4091-88b2-f8e83bf4eae1.png)
 
